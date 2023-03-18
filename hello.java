@@ -2,6 +2,6 @@ class Hello
 {
 Public static void main(String args[])
 {
-System.out.println(“hello world latest changes from feature branch”);
+System.out.println(“hello world changes from feature branch”);
 }
 }
